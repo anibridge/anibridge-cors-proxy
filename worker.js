@@ -3,6 +3,7 @@ export default {
     // Map of prefix -> upstream origin
     const API_MAP = {
       "mal": "https://myanimelist.net",
+      "trakt": "https://api.trakt.tv",
     };
 
     // Optional: lock down who can call your proxy (recommended).
